@@ -17,7 +17,7 @@ Tout commence avec la blockchain, le livre de compte public et transparent qui e
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/blokchain.jpg" loading="lazy">
+    <img src="/images/blockchain.jpg" loading="lazy">
   </div>
   <em>Source / <a href="https://economie.gouv.fr" target="_blank">economie.gouv.fr</a></em>
 </div>
