@@ -34,4 +34,4 @@ Comme toute nouvelle technologie, il y a des risques impliqués. L'une des plus 
 
 > J'utilise Ledger, une solution de stockage et de sécurité de cryptomonnaies de premier plan, pour protéger mes actifs numériques des cyberattaques et des menaces potentielles.
 
-Acheter votre Ledger et gagner 10$US en BTC.
+Acheter votre Ledger et gagner 10$US en $BTC.
