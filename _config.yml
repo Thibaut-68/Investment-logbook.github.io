@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseurl: "/Investment-logbook.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thibaut-68.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
