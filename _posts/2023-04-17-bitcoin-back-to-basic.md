@@ -7,21 +7,19 @@ author: mamba
 image: '/images/btc.jpg'
 tags: [crypto]
 ---
-Si vous êtes là, c'est probablement parce que vous vous intéressez à cette monnaie numérique mystérieuse et controversée. Mais ne vous inquiétez pas, nous allons tout vous expliquer
+Le Bitcoin est une monnaie numérique qui a connu une croissance fulgurante ces dernières années. Cette monnaie a suscité un grand intérêt de la part des investisseurs et des curieux, mais elle est également entourée d'un certain mystère et d'une certaine controverse. Dans cet article, nous allons vous expliquer ce qu'est le Bitcoin et comment il fonctionne, afin que vous puissiez comprendre cette monnaie numérique de manière claire et concise.
 
-## Tout d'abord, qu'est-ce que Bitcoin ?
-En termes simples, Bitcoin est une monnaie numérique décentralisée. Mais qu'est-ce que cela signifie ? Eh bien, contrairement aux monnaies traditionnelles, comme l'euro ou le dollar, Bitcoin n'est pas contrôlé par un gouvernement ou une banque centrale. Il n'y a pas de billets physiques ou de pièces de monnaie, seulement des transactions numériques. 
+## Tout d'abord, qu'est-ce que Bitcoin, $BTC ?
+En termes simples, Bitcoin est une monnaie numérique décentralisée. Contrairement aux monnaies traditionnelles, comme l'euro ou le dollar, Bitcoin n'est pas contrôlé par un gouvernement ou une banque centrale. Il n'y a pas de billets physiques ou de pièces de monnaie, uniquement des transactions numériques. 
 
 ## Mais comment cela fonctionne-t-il ?
 Tout commence avec la blockchain, le livre de compte public et transparent qui enregistre toutes les transactions Bitcoin. Imaginez-le comme un grand cahier où toutes les transactions Bitcoin sont écrites. Mais contrairement à un vrai cahier, il n'y a pas de page blanche ou d'effacement possible. Une fois qu'une transaction est enregistrée, elle ne peut plus être effacée ou modifiée.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/34.jpg" loading="lazy">
-    <img src="/images/35.jpg" loading="lazy">
-    <img src="/images/36.jpg" loading="lazy">
+    <img src="/images/blokchain.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://www.pexels.com" target="_blank">Pexels</a></em>
+  <em>Source / <a href="https://economie.gouv.fr" target="_blank">economie.gouv.fr</a></em>
 </div>
 
 Maintenant, parlons de la façon dont les Bitcoins sont créés. Contrairement aux monnaies traditionnelles, qui sont imprimées par les banques centrales, les Bitcoins sont "minés" par des ordinateurs qui résolvent des équations mathématiques complexes. C'est comme si vous aviez un puzzle à résoudre, et chaque fois que vous le résolvez, vous gagnez un certain nombre de Bitcoins. C'est ce qu'on appelle le "minage".
@@ -36,4 +34,4 @@ Comme toute nouvelle technologie, il y a des risques impliqués. L'une des plus 
 
 > J'utilise Ledger, une solution de stockage et de sécurité de cryptomonnaies de premier plan, pour protéger mes actifs numériques des cyberattaques et des menaces potentielles.
 
-Acheter votre Ledget et gagner 10$US en BTC.
+Acheter votre Ledger et gagner 10$US en BTC.
