@@ -4,7 +4,7 @@ title: Back to basic. Bitcoin, c'est quoi ?
 description: Ici, on va parler de Bitcoin, une monnaie qui rend les gouvernements et les banques centrales aussi nerveux qu'un chat dans une salle de bain. Depuis sa création en 2009, cette petite merveille a révolutionné le monde des transactions financières en offrant une alternative décentralisée et censurée-à-la-racine aux monnaies traditionnelles. Alors attache ta ceinture, on part en voyage dans le monde fantastique de la cryptomonnaie ! 
 date: 2023-04-17 12:01:35 +0300
 author: mamba
-image: '/images/33.jpg'
+image: '/images/btc.jpg'
 tags: [crypto]
 ---
 Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.
