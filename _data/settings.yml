@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Investment Logbook
-description: Notre mission est d'aider les investisseurs débutants et avancés à naviguer dans le monde de l'investissement en toute confiance. Que vous cherchiez à investir dans des actions, des obligations, des fonds communs de placement ou des crypto-monnaies, Investment Logbook est l'endroit idéal pour commencer votre parcours d'investissement.
+title: The Investment bible
+description: Notre mission est d'aider les investisseurs débutants et avancés à naviguer dans le monde de l'investissement. Que vous cherchiez à investir dans des actions, des obligations, des fonds communs de placement ou des crypto-monnaies, Investment Logbook est l'endroit idéal pour commencer votre parcours d'investissement.
 logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo-dark.svg"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -41,8 +41,8 @@ cta_button:
 # Hero Settings
 hero:
   enable: true
-  hero_title: L'investissement pour les débutants. No bullshit only facts !
-  hero_description: Notre mission, aider les investisseurs débutants et avancés à naviguer dans le monde de l'investissement pas à pas.
+  hero_title: L'investissement pour les débutants. 0 bullshit !
+  hero_description: Notre mission, aider les investisseurs débutants et avancés à naviguer dans le monde de l'investissement.
 
 
 #-------------------------------
@@ -70,7 +70,8 @@ authors_section:
 
 #-------------------------------
 # Footer Settings
-footer_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+footer_description: Notre mission est d'aider les investisseurs débutants et avancés à naviguer dans le monde de l'investissement. Que vous cherchiez à investir dans des actions, des obligations, des fonds communs de placement ou des crypto-monnaies, Investment Logbook est l'endroit idéal pour commencer votre parcours d'investissement.
+
 
 
 # Social Links
@@ -90,11 +91,11 @@ social:
 # Newsletter Settings
 mailchimp_settings:
   enable: true
-  mailchimp_title: Get interesting news
-  mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp_title: Newsletter
+  mailchimp_description: Abonnez-vous à notre newsletter.
   mailchimp_identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-  mailchimp_input_text: Your email address
-  mailchimp_button_text: Subscribe
+  mailchimp_input_text: Votre addresse email
+  mailchimp_button_text: Souscrire
 
 
 #-------------------------------
@@ -109,7 +110,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+disqus_identifier: The investment bible # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
 #-------------------------------
