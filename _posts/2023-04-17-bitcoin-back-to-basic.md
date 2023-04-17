@@ -24,13 +24,6 @@ Tout commence avec la blockchain, le livre de compte public et transparent qui e
 
 Maintenant, parlons de la façon dont les Bitcoins sont créés. Contrairement aux monnaies traditionnelles, qui sont imprimées par les banques centrales, les Bitcoins sont "minés" par des ordinateurs qui résolvent des équations mathématiques complexes. C'est comme si vous aviez un puzzle à résoudre, et chaque fois que vous le résolvez, vous gagnez un certain nombre de Bitcoins. C'est ce qu'on appelle le "minage".
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/bitcoin-mining.jpg" loading="lazy">
-  </div>
-  <em>Description / Bitcoin ASIC Miner</em>
-</div>
-
 Mais pourquoi les gens dépensent-ils leur temps et leur énergie à miner des Bitcoins ? Eh bien, pour chaque Bitcoin "miné", il y en a un nombre limité qui sera créé. La quantité totale de Bitcoins qui seront en circulation est limitée à 21 millions. Cela signifie qu'une fois que tous les Bitcoins auront été minés, il n'y en aura plus de nouveaux. Et comme la demande pour les Bitcoins augmente, leur valeur peut également augmenter.
 
 ## Les avantages du Bitcoin
