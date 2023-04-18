@@ -43,4 +43,3 @@ Utilisez le lien de parrainage ci-dessous pour gagnez 10$US en BTC.
 
   <em>Ledger / <a href="[https://economie.gouv.fr](https://shop.ledger.com/fr?referral_code=YVJAW13C4WWXA
 )" target="_blank">Ledger</a></em>
-
