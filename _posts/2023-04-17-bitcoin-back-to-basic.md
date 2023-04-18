@@ -22,7 +22,7 @@ Il existe effectivement de nombreuses blockchains aussi bien publiques que priv√
 
 <div class="gallery-box">
   <div class="gallery">
-    ({{site.baseurl}}/images/blockchain.jpg)
+    <img src="{{site.baseurl}}/images/blockchain.jpg"/>
   </div>
   <em>Source / <a href="https://economie.gouv.fr" target="_blank">economie.gouv.fr</a></em>
 </div>
