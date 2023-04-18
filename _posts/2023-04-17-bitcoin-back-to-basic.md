@@ -15,7 +15,7 @@ En termes simples, Bitcoin est une monnaie numérique décentralisée. Contraire
 ## Mais comment cela fonctionne-t-il ?
 Tout commence avec la blockchain, le livre de compte public et transparent qui enregistre toutes les transactions Bitcoin. Imaginez-le comme un grand cahier où toutes les transactions Bitcoin sont écrites. Mais contrairement à un vrai cahier, il n'y a pas de page blanche ou d'effacement possible. Une fois qu'une transaction est enregistrée, elle ne peut plus être effacée ou modifiée.
 
-Il est notamment possible de visualiser les transactions et les informations stockées sur une blockchain. Il fournit des informations sur les blocs, les adresses, les soldes et les transactions en temps réel. <em>Blockchain Explorer / <a href="https://www.blockchain.com/explorer/assets/btc" target="_blank">Blockchain explorer</a></em>
+Il est notamment possible de visualiser les transactions et les informations stockées sur une blockchain. Un Blockchain explorer fournit des informations sur les blocs, les adresses, les soldes et les transactions en temps réel. Explorer la Blockchain bitcoin sur <a href="https://www.blockchain.com/explorer/assets/btc" target="_blank">Blockchain explorer</a>
 
 # Une blockchain ? Il en existe plusieurs ?
 Il existe effectivement de nombreuses blockchains aussi bien publiques que privées avec des fonctionnalités différentes. Parmi les plus connues figurent bien evidemment Bitcoin mais aussi Ethereum; Binance Smart Chain, Solana, Cardano, etc...
