@@ -11,9 +11,9 @@ tags: [crypto]
 
 Dans cet article, nous allons vous présenter Ledger et Ledger Live, et vous expliquer pourquoi vous devriez les utiliser pour stocker vos crypto-monnaies en toute sécurité.
 
-## Ledger : un portefeuille matériels fiable et sécurisé
+## Ledger : un wallet fiable et sécurisé
 
-L'un des avantages de Ledger est sa sécurité. Les clés privées sont stockées dans un élément de sécurité certifié (CC EAL5+), qui est un système d'exploitation dédié à la sécurité des portefeuilles matériels. Les portefeuilles Ledger sont également dotés de fonctionnalités avancées telles que la phrase de récupération, qui permet de récupérer votre portefeuille en cas de perte ou de vol.
+L'un des avantages de Ledger est sa sécurité. Les clés privées sont stockées dans un élément de sécurité certifié, qui est un système d'exploitation dédié à la sécurité des portefeuilles matériels. Les portefeuilles Ledger sont également dotés de fonctionnalités avancées telles que la phrase de récupération, qui permet de récupérer votre portefeuille en cas de perte ou de vol.
 
 ## Ledger Live : une application de gestion de portefeuille pratique
 
