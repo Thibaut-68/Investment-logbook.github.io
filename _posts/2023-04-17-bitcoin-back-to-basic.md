@@ -15,17 +15,18 @@ En termes simples, Bitcoin est une monnaie numérique décentralisée. Contraire
 ## Mais comment cela fonctionne-t-il ?
 Tout commence avec la blockchain, le livre de compte public et transparent qui enregistre toutes les transactions Bitcoin. Imaginez-le comme un grand cahier où toutes les transactions Bitcoin sont écrites. Mais contrairement à un vrai cahier, il n'y a pas de page blanche ou d'effacement possible. Une fois qu'une transaction est enregistrée, elle ne peut plus être effacée ou modifiée.
 
-Il est notamment possible de visualiser les transactions et les informations stockées sur une blockchain. Un Blockchain explorer fournit des informations sur les blocs, les adresses, les soldes et les transactions en temps réel. Explorer la Blockchain bitcoin sur <a href="https://www.blockchain.com/explorer/assets/btc" target="_blank">Blockchain explorer</a>
-
-# Une blockchain ? Il en existe plusieurs ?
-Il existe effectivement de nombreuses blockchains aussi bien publiques que privées avec des fonctionnalités différentes. Parmi les plus connues figurent bien evidemment Bitcoin mais aussi Ethereum; Binance Smart Chain, Solana, Cardano, etc...
-
 <div class="gallery-box">
   <div class="gallery">
     <img src="{{site.baseurl}}/images/blockchain.jpg"/>
   </div>
   <em>Source / <a href="https://economie.gouv.fr" target="_blank">economie.gouv.fr</a></em>
 </div>
+
+Il est notamment possible de visualiser les transactions et les informations stockées sur une blockchain. Un Blockchain explorer fournit des informations sur les blocs, les adresses, les soldes et les transactions en temps réel. Explorer la Blockchain bitcoin sur <a href="https://www.blockchain.com/explorer/assets/btc" target="_blank">Blockchain explorer</a>
+
+## Une blockchain ? Il en existe plusieurs ?
+Il existe effectivement de nombreuses blockchains aussi bien publiques que privées avec des fonctionnalités différentes. Parmi les plus connues figurent bien evidemment Bitcoin mais aussi Ethereum; Binance Smart Chain, Solana, Cardano, etc...
+
 
 Maintenant, parlons de la façon dont les Bitcoins sont créés. Contrairement aux monnaies traditionnelles, qui sont imprimées par les banques centrales, les Bitcoins sont "minés" par des ordinateurs qui résolvent des équations mathématiques complexes. C'est comme si vous aviez un puzzle à résoudre, et chaque fois que vous le résolvez, vous gagnez un certain nombre de Bitcoins. C'est ce qu'on appelle le "minage".
 
