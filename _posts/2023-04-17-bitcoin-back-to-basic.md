@@ -8,7 +8,6 @@ author: mamba
 image: '/images/ledger.jpg'
 tags: [crypto]
 ---
-Le Bitcoin est une monnaie numérique qui a connu une croissance fulgurante ces dernières années. Cette monnaie a suscité un grand intérêt de la part des investisseurs et des curieux, mais elle est également entourée d'un certain mystère et d'une certaine controverse. Dans cet article, nous allons vous expliquer ce qu'est le Bitcoin et comment il fonctionne, afin que vous puissiez comprendre cette monnaie numérique de manière claire et concise.
 
 Dans cet article, nous allons vous présenter Ledger et Ledger Live, et vous expliquer pourquoi vous devriez les utiliser pour stocker vos crypto-monnaies en toute sécurité.
 
