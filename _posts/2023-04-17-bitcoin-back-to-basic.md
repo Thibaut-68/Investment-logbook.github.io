@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back to basics. Bitcoin, c'est quoi ?
-description: Ici, on va parler de Bitcoin, une monnaie qui rend les gouvernements et les banques centrales aussi nerveux qu'un chat dans une salle de bain. Depuis sa création en 2009, cette petite merveille a révolutionné le monde des transactions financières en offrant une alternative décentralisée et censurée-à-la-racine aux monnaies traditionnelles. Alors attache ta ceinture, on part en voyage dans le monde fantastique de la cryptomonnaie ! 
+description: Ici, on va parler de Bitcoin, une monnaie qui rend les gouvernements et les banques centrales aussi nerveux qu'un chat dans une salle de bain. Depuis sa création en 2009, cette petite merveille a révolutionné le monde des transactions financières en offrant une alternative décentralisée et censurée-à-la-racine aux monnaies traditionnelles. Decouvrons ensemble le monde fantastique de la cryptomonnaie ! 
 date: 2023-04-17 12:01:35 +0300
 author: mamba
 image: '/images/btc.jpg'
@@ -15,6 +15,11 @@ En termes simples, Bitcoin est une monnaie numérique décentralisée. Contraire
 ## Mais comment cela fonctionne-t-il ?
 Tout commence avec la blockchain, le livre de compte public et transparent qui enregistre toutes les transactions Bitcoin. Imaginez-le comme un grand cahier où toutes les transactions Bitcoin sont écrites. Mais contrairement à un vrai cahier, il n'y a pas de page blanche ou d'effacement possible. Une fois qu'une transaction est enregistrée, elle ne peut plus être effacée ou modifiée.
 
+Il est notamment possible de visualiser les transactions et les informations stockées sur une blockchain. Il fournit des informations sur les blocs, les adresses, les soldes et les transactions en temps réel. <em>Blockchain Explorer / <a href="https://www.blockchain.com/explorer/assets/btc" target="_blank">Blockchain explorer</a></em>
+
+# Une blockchain ? Il en existe plusieurs ?
+Il existe effectivement de nombreuses blockchains aussi bien publiques que privées avec des fonctionnalités différentes. Parmi les plus connues figurent bien evidemment Bitcoin mais aussi Ethereum; Binance Smart Chain, Solana, Cardano, etc...
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/blockchain.jpg" loading="lazy">
@@ -24,14 +29,16 @@ Tout commence avec la blockchain, le livre de compte public et transparent qui e
 
 Maintenant, parlons de la façon dont les Bitcoins sont créés. Contrairement aux monnaies traditionnelles, qui sont imprimées par les banques centrales, les Bitcoins sont "minés" par des ordinateurs qui résolvent des équations mathématiques complexes. C'est comme si vous aviez un puzzle à résoudre, et chaque fois que vous le résolvez, vous gagnez un certain nombre de Bitcoins. C'est ce qu'on appelle le "minage".
 
-Mais pourquoi les gens dépensent-ils leur temps et leur énergie à miner des Bitcoins ? Eh bien, pour chaque Bitcoin "miné", il y en a un nombre limité qui sera créé. La quantité totale de Bitcoins qui seront en circulation est limitée à 21 millions. Cela signifie qu'une fois que tous les Bitcoins auront été minés, il n'y en aura plus de nouveaux. Et comme la demande pour les Bitcoins augmente, leur valeur peut également augmenter.
+Les mineurs de Bitcoin sont récompensés en bitcoins pour le travail qu'ils effectuent en vérifiant les transactions et en sécurisant le réseau Bitcoin. En d'autres termes, ils sont payés pour résoudre des problèmes mathématiques qui valident les transactions et maintiennent l'intégrité de la blockchain. Les mineurs peuvent également gagner des frais de transaction supplémentaires pour les transactions qu'ils incluent dans un bloc qu'ils minent. En résumé, miner du Bitcoin peut être une activité lucrative pour ceux qui ont les connaissances et les ressources nécessaires pour le faire efficacement.
+
+Il est important de noter que la quantité totale de Bitcoins est limitée à 21 millions. Cela signifie qu'une fois que tous les Bitcoins auront été minés, il n'y en aura plus de nouveaux. Et comme la demande pour les Bitcoins augmente, leur valeur peut également augmenter.
 
 ## Les avantages du Bitcoin
-L'un des plus grands avantages de Bitcoin est qu'il est résistant à la censure et à la confiscation. Puisque les Bitcoins ne sont pas contrôlés par un gouvernement ou une banque centrale, ils ne peuvent pas être gelés ou saisis par les autorités. Cela signifie que les utilisateurs peuvent envoyer de l'argent à n'importe qui dans le monde, sans craindre d'être bloqués ou confisqués.
+L'un des plus grands avantages de Bitcoin est qu'il est résistant à la censure et à la confiscation. Puisque les Bitcoins ne sont pas contrôlés par un gouvernement ou une banque centrale, ils ne peuvent pas être gelés ou saisis par les autorités. Cela signifie que les utilisateurs peuvent envoyer de l'argent à n'importe qui dans le monde, sans craindre d'être bloqués.
 
 ## Quels sont les risques ?
 Comme toute nouvelle technologie, il y a des risques impliqués. L'une des plus grandes préoccupations est la sécurité. Étant donné que les Bitcoins sont stockés numériquement, il y a toujours un risque qu'ils soient volés ou piratés. C'est pourquoi il est important de stocker vos Bitcoins en toute sécurité, en utilisant des portefeuilles numériques sécurisés.
 
-> J'utilise Ledger, une solution de stockage et de sécurité de cryptomonnaies de premier plan, pour protéger mes actifs numériques des cyberattaques et des menaces potentielles.
+> Personellement j'utilise Ledger, une solution de stockage et de sécurité de cryptomonnaies de premier plan, pour protéger mes actifs numériques des cyberattaques et des menaces potentielles.
 
 Acheter votre Ledger et gagner 10$US en $BTC.
