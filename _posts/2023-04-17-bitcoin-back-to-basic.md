@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hardawre et Cold Wallet: Ledger
+title: Ledger, Hardawre & Cold Wallet 
 description: Dans le monde des crypto-monnaies, la sécurité est un sujet de préoccupation majeur. Les portefeuilles matériels sont l'un des moyens les plus sûrs de stocker vos crypto-monnaies hors ligne. Ledger est l'une des marques les plus populaires de portefeuilles matériels pour les crypto-monnaies. Elle offre également une application de gestion de portefeuille appelée Ledger Live, qui vous permet de gérer toutes vos transactions et de suivre l'état de vos portefeuilles.
 
 date: 2023-04-17 12:01:35 +0300
